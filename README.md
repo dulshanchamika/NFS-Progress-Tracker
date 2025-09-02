@@ -1,5 +1,5 @@
 # NFS-Progress-Tracker - ⭐
 
 ## Click on the Tag 
-## Click on v1.0
+## Click on latest version
 ## Download APK and enjoy
